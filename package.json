@@ -1,0 +1,13 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "Victor Gama",
+  "license": "ISC",
+  "type": "module"
+}
